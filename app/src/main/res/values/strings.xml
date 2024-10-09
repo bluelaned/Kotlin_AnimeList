@@ -1,0 +1,80 @@
+<resources>
+    <string name="app_name">AnimeList</string>
+
+    <string name="about">About</string>
+    <string name="anime_title">Judul Anime</string>
+    <string name="anime_description">Deskripsi Anime</string>
+    <string name="author_name">Author Name</string>
+
+
+    <string-array name="data_photo">
+        <item>@drawable/img_death_note</item>
+        <item>@drawable/img_one_piece</item>
+        <item>@drawable/img_naruto</item>
+        <item>@drawable/img_aot</item>
+        <item>@drawable/img_fairy_tail</item>
+        <item>@drawable/img_kuroko</item>
+        <item>@drawable/img_monster</item>
+        <item>@drawable/img_bleach</item>
+        <item>@drawable/img_evangelion</item>
+        <item>@drawable/img_jojo</item>
+    </string-array>
+    <string-array name="data_name">
+        <item>Death Note</item>
+        <item>One Piece</item>
+        <item>Naruto</item>
+        <item>Attack On Titan</item>
+        <item>Fairy Tail</item>
+        <item>Kuroko\'s Basketball</item>
+        <item>Monster</item>
+        <item>Bleach</item>
+        <item>Neon Genesis Evangelion</item>
+        <item>Jojo\'s Bizarre Adventure</item>
+    </string-array>
+    <string-array name="data_author">
+        <item>Tsugumi Ohba</item>
+        <item>Eiichiro Oda</item>
+        <item>Masashi Kishimoto</item>
+        <item>Haijme Isayama</item>
+        <item>Hiro Mashima</item>
+        <item>Tadatoshi Fujimaki</item>
+        <item>Naoki Urasawa</item>
+        <item>Noriaki Kubo</item>
+        <item>Hideaki Anno</item>
+        <item>Hirohiko Araki</item>
+    </string-array>
+
+
+    <string-array name="data_description">
+        <item>Death Note is a psychological thriller anime that follows Light Yagami, a brilliant but bored high school student who stumbles upon a mysterious notebook called the "Death Note." The notebook has the power to kill anyone whose name is written in it, as long as the writer also envisions their face. Realizing the potential of this power, Light adopts the alias "Kira" and embarks on a mission to cleanse the world of criminals, believing he can create a utopia where he reigns as a god.
+            \n\nHowever, his actions attract the attention of a genius detective known only as "L," who is determined to stop Kira. This sets off a tense and complex game of cat and mouse between Light and L, as both characters try to outwit each other. The story explores themes of justice, morality, and the corrupting influence of power as Light becomes increasingly ruthless in his quest, while L employs unconventional and brilliant strategies to uncover Kira’s identity.
+        \n\nThe anime is filled with mind games, suspense, and moral ambiguity, making it a gripping exploration of the human psyche and the consequences of absolute power.</item>
+        <item>One Piece follows Monkey D. Luffy, a young pirate with the power to stretch like rubber after eating a Devil Fruit. Luffy\'s dream is to find the legendary treasure, the One Piece, and become the Pirate King. He forms the Straw Hat Pirates, a crew of unique individuals, and together they sail the dangerous Grand Line, facing powerful enemies like marines, warlords, and other pirates.
+            \n\nAs they journey, they uncover deep mysteries about the world, including the secret of the Void Century, the origins of Devil Fruits, and the true nature of the One Piece treasure. The series is known for its epic battles, emotional moments, and strong themes of friendship and adventure.</item>
+        <item>Naruto is a popular anime and manga series created by Masashi Kishimoto. It follows the story of Naruto Uzumaki, a young ninja from the Hidden Leaf Village. Born with a powerful demon fox called the Nine-Tails sealed inside him, Naruto is often shunned by the villagers. Despite this, he dreams of becoming the Hokage, the leader and strongest ninja of the village, to earn everyone\'s respect.
+            \n\nNaruto trains hard to improve his skills, forming bonds with his friends, including Sasuke Uchiha and Sakura Haruno, under the guidance of their teacher Kakashi Hatake. Along the way, Naruto faces various challenges and enemies, from rogue ninjas to powerful organizations like Akatsuki, while learning the truth about his past and the origins of his inner power.
+            \n\nThe series focuses on themes of perseverance, friendship, and self-discovery as Naruto works to overcome adversity and protect those he loves. The story also dives into the complex backgrounds of many characters, especially Naruto\'s friend-turned-rival Sasuke, leading to epic battles and emotional moments as they shape the future of the ninja world.</item>
+        <item>"Attack on Titan" (AOT), created by Hajime Isayama, is set in a world where humanity is on the brink of extinction due to giant humanoid creatures called Titans, who devour humans. The last remnants of humanity live behind massive walls built to protect them from these monsters.
+            \n\nThe story follows Eren Yeager, who, after witnessing a devastating Titan attack that destroys his home and kills his mother, vows to eradicate all Titans. Alongside his friends Mikasa Ackerman and Armin Arlert, Eren joins the Scout Regiment, an elite group that ventures outside the walls to fight Titans.
+            \n\nAs the series progresses, shocking truths about the Titans, the origins of the walls, and the true nature of humanity\'s struggle come to light. The story explores themes of freedom, sacrifice, and the moral complexities of war, as Eren and his allies uncover dark secrets that change their world forever.</item>
+        <item>"Fairy Tail," created by Hiro Mashima, is set in a magical world where powerful wizards join guilds to take on jobs and missions. The story follows Natsu Dragneel, a fire-breathing wizard and member of the Fairy Tail guild, known for its strong bonds and reckless behavior. Natsu is on a quest to find his adoptive father, the dragon Igneel, who disappeared years ago.
+            \n\nAlongside his companions—Lucy Heartfilia, a celestial spirit wizard; Gray Fullbuster, an ice mage; and Erza Scarlet, a powerful knight—Natsu embarks on dangerous missions and battles dark guilds, evil wizards, and ancient forces. Together, they confront powerful enemies while growing stronger as a team.
+            \n\nThe series emphasizes the themes of friendship, loyalty, and the strength of bonds, with a blend of humor, emotional moments, and intense magical battles as Natsu and his friends fight to protect their guild and the people they care about.</item>
+        <item>"Kuroko no Basket," created by Tadatoshi Fujimaki, is a sports anime and manga centered around high school basketball. The story follows Tetsuya Kuroko, a seemingly invisible and unremarkable player who was once part of the legendary middle school basketball team known as the "Generation of Miracles." Despite his lack of presence on the court, Kuroko is a master of misdirection and passing.
+            \n\nKuroko joins Seirin High School\'s basketball team, where he teams up with Taiga Kagami, a talented and passionate player with immense potential. Together, they aim to take down the former members of the Generation of Miracles, each of whom has joined different high school teams and become elite players in their own right.
+            \n\nThe series focuses on intense basketball matches, teamwork, and the individual growth of the players, with Kuroko and Kagami leading Seirin on their journey to become the best team in Japan. Themes of friendship, rivalry, and determination drive the story as the characters push their limits to achieve their goals.</item>
+        <item>"Monster," created by Naoki Urasawa, is a psychological thriller manga and anime that follows Dr. Kenzo Tenma, a brilliant Japanese brain surgeon working in Germany. His life takes a dark turn when he makes a critical moral decision: he chooses to save the life of a young boy, **Johan Liebert**, over that of a prominent politician. This decision leads to dire consequences, as the boy grows up to become a dangerous sociopath responsible for a series of brutal murders.
+            \n\nYears later, Dr. Tenma discovers that Johan has become a "monster," and he feels responsible for the chaos that has unfolded. Determined to stop him, Tenma embarks on a dangerous journey across Europe to track Johan down and put an end to his terror. Along the way, Tenma uncovers disturbing secrets about Johan’s past, as well as a larger conspiracy involving orphanages, brainwashing, and corruption.
+            \n\nThe series delves into complex themes like the nature of evil, morality, and the psychological effects of trauma. It is renowned for its intricate storytelling, character development, and suspenseful plot, as Tenma struggles with the question of whether it is possible to save someone who has become a true monster.</item>
+        <item>"Bleach," created by Tite Kubo, follows the story of Ichigo Kurosaki, a high school student who gains the ability to see ghosts after a chance encounter with Rukia Kuchiki, a Soul Reaper. When Rukia is injured while fighting a Hollow (a malevolent spirit), she transfers her powers to Ichigo so he can protect his family and defeat the Hollow.
+            \n\nAs Ichigo embraces his new role as a Soul Reaper, he becomes involved in the world of spirits and the Soul Society, an organization responsible for maintaining the balance between the human world and the afterlife. Alongside Rukia and his friends, including Orihime Inoue, Uryu Ishida, and Yasutora Sado, Ichigo faces various threats, including powerful Hollows, rogue Soul Reapers, and the enigmatic Aizen, who seeks to disrupt the balance between worlds.
+            \n\nThe series combines action, supernatural elements, and character development, exploring themes of friendship, sacrifice, and the responsibilities that come with power as Ichigo and his allies confront increasingly formidable foes in their quest to protect both the living and the dead.</item>
+        <item>"Neon Genesis Evangelion," created by Hideaki Anno, is a mecha anime series set in a post-apocalyptic world where humanity is threatened by mysterious beings known as **Angels**. The story follows **Shinji Ikari**, a 14-year-old boy who is recruited by the organization **NERV** to pilot a giant bio-mechanical robot called an **Evangelion**.
+            \n\nShinji is reluctant to take on this responsibility, grappling with feelings of isolation, self-worth, and his complex relationship with his father, **Gendo Ikari**, who leads NERV. As he pilots **Evangelion Unit-01**, Shinji encounters other young pilots, including **Rei Ayanami** and **Asuka Langley Soryu**, each with their own struggles and backstories.
+            \n\nThe series delves into psychological themes, exploring the emotional and existential crises of its characters amidst intense battles with the Angels. It examines concepts such as human connection, identity, and the impact of trauma. With its unique blend of action, philosophy, and introspective storytelling, "Neon Genesis Evangelion" has become a seminal work in the anime genre, influencing countless other series and sparking discussions about its complex themes and symbolism.</item>
+        <item>"JoJo\'s Bizarre Adventure," created by Hirohiko Araki, is a long-running manga and anime series known for its unique art style, eccentric characters, and imaginative storytelling. The series follows the adventures of the Joestar family, each member possessing a distinct ability that allows them to face supernatural threats.
+            \n\nThe story is divided into multiple parts, each focusing on a different member of the Joestar lineage. The first part, "Phantom Blood," introduces Jonathan Joestar and his battle against the vampire **Dio Brando**. Subsequent parts explore different eras and settings, introducing characters like **Joseph Joestar** in "Battle Tendency," **Jotaro Kujo** in "Stardust Crusaders," and **Giorno Giovanna** in "Vento Aureo," among others.
+            \n\nA defining feature of the series is the concept of **Stands**, manifestations of a user\'s fighting spirit that grant them unique powers. Each Stand has its own abilities, leading to strategic battles and creative uses of powers.
+            \n\n"JoJo\'s Bizarre Adventure" is celebrated for its over-the-top action, memorable catchphrases, and themes of friendship, rivalry, and the struggle against evil. Its cultural impact and distinctive storytelling have made it a beloved and influential franchise in the world of anime and manga.</item>
+    </string-array>
+</resources>
